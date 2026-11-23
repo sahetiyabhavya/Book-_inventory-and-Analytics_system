@@ -153,9 +153,9 @@ This project helps demonstrate practical knowledge of Python, OOP, NumPy, Pandas
 
 Bookstore_Project/
 │
+├── README.md 
 ├── bookstore_system.py
 ├── inventory.csv
-├── README.md 
 └── sales.csv
 
 ## Author 
