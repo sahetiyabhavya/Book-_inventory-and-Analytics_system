@@ -150,13 +150,14 @@ This project helps demonstrate practical knowledge of Python, OOP, NumPy, Pandas
 
 
 ## Project Strcture
-
+```
 Bookstore_Project/
 │
 ├── README.md 
 ├── bookstore_system.py
 ├── inventory.csv
 └── sales.csv
+```
 
 ## Author 
 **Bhavya Sahetiya**
